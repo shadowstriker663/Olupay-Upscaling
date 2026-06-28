@@ -8,11 +8,9 @@ The solution demonstrates secure, scalable, event-driven cloud architecture usin
 
 ---
 
-## Architecture Diagram
 
-> Insert the architecture diagram below.
 
-![Architecture](architecture/olupay-architecture.png)
+
 
 ---
 
